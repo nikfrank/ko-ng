@@ -1,0 +1,26 @@
+{
+    "commands":{
+	"component":{
+	    "defaultParams":{
+		"defaultPath":"client/components",
+		"servedFrom":"client/"
+	    }
+	},
+	"route":{
+	    "defaultParams":{
+		"defaultPath":"client/app/routes",
+		"servedFrom":"client/"
+	    }
+	},
+	"service":{
+	    "defaultParams":{
+		"defaultPath":"client/app/services"
+	    }
+	},
+	"e2e":{
+	    "defaultParams":{
+		"defaultPath":"e2e"
+	    }
+	}
+    }
+}
