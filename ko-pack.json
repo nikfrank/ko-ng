@@ -6,6 +6,12 @@
 		"servedFrom":"client/"
 	    }
 	},
+	"directive":{
+	    "defaultParams":{
+		"defaultPath":"client/components",
+		"servedFrom":"client/"
+	    }
+	},
 	"route":{
 	    "defaultParams":{
 		"defaultPath":"client/app/routes",
