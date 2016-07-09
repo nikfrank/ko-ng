@@ -1,0 +1,24 @@
+{
+  "name": "ko-ng",
+  "version": "0.0.0",
+  "description": "ko package for angular 1.5 w es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "ko test ko-ng"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikfrank/ko-ng.git"
+  },
+  "keywords": [
+    "ko",
+    "angular",
+    "es6"
+  ],
+  "author": "nik frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikfrank/ko-ng/issues"
+  },
+  "homepage": "https://github.com/nikfrank/ko-ng#readme"
+}
