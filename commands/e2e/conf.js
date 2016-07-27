@@ -13,7 +13,7 @@ module.exports = {
     'URL',
     'NAME'
   ],
-  varDefaults:[
+  argRewrites:[
     (args, cons)=>{
       let ret = args[1] || 'e2e/main';
       let Dpath = cons.e2e.defaultPath.split('/');

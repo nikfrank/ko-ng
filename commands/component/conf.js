@@ -17,7 +17,7 @@ module.exports = {
     'NAME',
     'PATH'
   ],
-  varDefaults:[
+  argRewrites:[
     (args, cons)=>{
       let ret = args[1] || 'components/default-directive';
       let Dpath = cons.component.defaultPath.split('/');

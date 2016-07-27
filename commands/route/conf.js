@@ -18,7 +18,7 @@ module.exports = {
     'NAME',
     'PATH'
   ],
-  varDefaults:[
+  argRewrites:[
     (args, cons)=>{
       let ret = args[1] || 'app/routes/main';
       let Dpath = cons.route.defaultPath.split('/');

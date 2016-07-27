@@ -12,7 +12,7 @@ module.exports = {
     'PLACE',
     'NAME'
   ],
-  varDefaults:[
+  argRewrites:[
     (args, cons)=>{
       let ret = args[1] || 'services/default-service';
       let Dpath = cons.service.defaultPath.split('/');

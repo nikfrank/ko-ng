@@ -1,6 +1,6 @@
 {
   "name": "ko-ng",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ko package for angular 1.5 w es6",
   "main": "index.js",
   "scripts": {
